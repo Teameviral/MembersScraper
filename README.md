@@ -10,8 +10,8 @@
 ```
 ## > How To Use :
 ```
->Open Terminal (cmd or turmux)
->pkg update
+> Open Terminal (cmd or turmux)
+> pkg update
 > pkg install pip
 > pkg install -y git python
 > pip install telethon
@@ -20,7 +20,7 @@
 > git clone https://github.com/TeamEviral/MembersScraper.git
 > cd
 > ls
-> cd adder-scraper
+> cd MembersScraper
 > ls
 ```
 ## > How To Use Commands :

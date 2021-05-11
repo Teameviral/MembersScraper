@@ -1,6 +1,4 @@
-![Enterprise](https://telegra.ph/file/0432877a90a3acaaeebba.jpg)
-# DEADBOY
-### Telegram Adder And Scraper By **DeadBoy** For TeleGram.
+### Telegram Adder And Scraper By **E V I R A L** For TeleGram.
 
 ## > Api Setup :
 ```
@@ -19,7 +17,7 @@
 > pip install telethon
 > cd
 > ls
-> git clone https://github.com/DeadBoyHere/adder-scraper.git
+> git clone https://github.com/TeamEviral/MembersScraper.git
 > cd
 > ls
 > cd adder-scraper
